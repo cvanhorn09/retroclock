@@ -121,6 +121,7 @@ func main() {
 			}
 			fmt.Println()
 		}
+		fmt.Println()
 		time.Sleep(time.Second)
 	}
 }
